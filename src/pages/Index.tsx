@@ -1,7 +1,7 @@
-import { ResearchSearch } from "@/components/ResearchSearch";
+import CureAnalyticsApp from "@/components/CureAnalyticsApp";
 
 const Index = () => {
-  return <ResearchSearch />;
+  return <CureAnalyticsApp />;
 };
 
 export default Index;
